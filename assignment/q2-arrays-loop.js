@@ -8,6 +8,15 @@ const studentList = ["Johnson", "Christina", "Michael", "Lina", "Larry", "Michel
 
 function printStudentNames(){
     // Add code here
+    // Using the for of method for arrays 
+    for (const student of studentList) {
+        console.log(student);
+    }
+
+    // Alternatively,
+    // for (let i=0; i<studentList.length; i++) {
+    //     console.log(studentList[i]);
+    // }
 }
 
 printStudentNames();
