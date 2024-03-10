@@ -2,66 +2,66 @@
 
 ## Testing Methodologies
 
-### Q1: Which of the following is NOT a part of the software development life cycle?
+### Q1: Which of the following is NOT a part of the software development life cycle? (D)
 - A: Requirement
 - B: Coding
 - C: Testing
 - D: None of the above
 ---
 
-### Q2: What test deals with isolation testing of the smallest piece of logic?
+### Q2: What test deals with isolation testing of the smallest piece of logic? (A)
 - A: Unit testing
 - B: Integration testing
 - C: Acceptance testing
 - D: Regression testing
 ---
 
-### Q3: What test deals with testing the functionality of the software by end users before launch?
+### Q3: What test deals with testing the functionality of the software by end users before launch? (C)
 - A: Unit testing
 - B: Integration testing
 - C: Acceptance testing
 - D: Regression testing
 ---
 
-### Q4: What test deals with testing multiple software modules together as a group?
+### Q4: What test deals with testing multiple software modules together as a group? (B)
 - A: Unit testing
 - B: Integration testing
 - C: Acceptance testing
 - D: Regression testing
 ---
 
-### Q5: What test determines the peak load and/or how many requests can the system receive.
+### Q5: What test determines the peak load and/or how many requests can the system receive. (B)
 - A: Load testing
 - B: Stress testing
 - C: Endurance testing
 - D: Pressure testing 
 ---
 
-### Q6: Each programming language has only one testing framework dedicated to it.
+### Q6: Each programming language has only one testing framework dedicated to it. (B)
 - A: True
 - B: False
 ---
 
-### Q7: Which of the following is NOT a primitive data type in JavaScript?
+### Q7: Which of the following is NOT a primitive data type in JavaScript? (C)
 - A: string
 - B: number
 - C: object
 - D: undefined 
 ---
 
-### Q8: Which of the following statements is NOT true?
+### Q8: Which of the following statements is NOT true? (D)
 - A: Objects can contain primitive data types and other objects.
 - B: “1356” is a string.
 - C: Boolean values can only be true or false.
 - D: Strings should be inside double quotes(“”).
 ---
 
-### Q9: Testing should only be done right before the application is released to the public
+### Q9: Testing should only be done right before the application is released to the public (B)
 - A: True
 - B: False
 ---
 
-### Q10: Arrays in Javascript start with what index?
+### Q10: Arrays in Javascript start with what index? (A)
 - A: 0
 - B: 1
 - C: A
